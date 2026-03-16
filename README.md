@@ -22,3 +22,4 @@ I want to understand the sales report for the bike sales store. This is my first
 - ## Dashboard
 
 https://github.com/2023john/Bike-Sales-Dashboard/commit/34a2beafbec4da0fc10dc7cbb0ebe2f4da1a28e8#diff-13cecf186042c0062fee394cbadcaaf9fce8ac01b29d12aaec1b508006b9c131
+Dashboard.png
