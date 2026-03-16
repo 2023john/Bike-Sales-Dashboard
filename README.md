@@ -20,3 +20,4 @@ I want to understand the sales report for the bike sales store. This is my first
 - merge all pivot tables into  one dashboard and apply slicer to make it dynamic
 
 - ## Dashboard
+C:\Users\Ifeoluwa\Pictures\Screenshots\Dashboard.png
