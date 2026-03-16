@@ -4,3 +4,19 @@ I want to understand the sales report for the bike sales store. This is my first
 
 ## Data set used
 - <a href="https://github.com/2023john/Bike-Sales-Dashboard/blob/master/Excel%20Project%20Dataset.xlsx">Dataset</a>
+
+## Questions
+- compare sales using avg. income, gender and occupation
+- what is the avg. income of costumers who made purchas
+- what is the commute distance of constumers who made bike purchases
+- what is the age brackets of costumers
+
+- Dashboard Interaction <a href="https://github.com/2023john/Bike-Sales-Dashboard/blob/master/Dashboard.png">view Dashboard</a>
+
+## Process
+- check data for any duplicate, missing values and sort out the same
+- clean the data and made sure the data consistient
+- created pivot table according to the questions asked
+- merge all pivot tables into  one dashboard and apply slicer to make it dynamic
+
+- ## Dashboard
